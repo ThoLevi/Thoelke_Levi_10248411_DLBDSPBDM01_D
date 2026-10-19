@@ -2,7 +2,7 @@
 Portfolio-Projekt im Kurs DLBDSPBDM01_D (Data-Mart-Erstellung in SQL) an der IU Internationale Hochschule
 
 Levi Thölke · Matrikelnummer 10248411
-GitHub-Repository: https://github.com/<Benutzername>/buecher-ausleihe-db
+GitHub-Repository: https://github.com/ThoLevi/Thoelke_Levi_10248411_DLBDSPBDM01_D.git
 Die Datenbank bildet eine App ab, in der Benutzende Bücher in der Nachbarschaft verleihen und ausleihen. Sie besteht aus 20 Tabellen und läuft auf Microsoft SQL Server 2022.
 Dateien
 `Thoelke-Levi_10248411_DLBDSPBDM01_D_Finalisierungsphase_SQL_Installation.sql`: führt alle Skripte in der richtigen Reihenfolge aus
